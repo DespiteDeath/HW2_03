@@ -23,4 +23,4 @@ script:
 - cd _build
 - ls
 - cd ..
-- cmake --build _build --target test
+- cmake --build _build 
